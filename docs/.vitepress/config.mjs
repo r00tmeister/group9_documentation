@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Documentation Title",
   description: "Documentation Description", 
   appearance: "dark",
+  base: "/group9_documentation/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
