@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Name of documentation"
-  text: "Text of documentation"
-  tagline: Tagline of documentation
+  name: "Share2Teach"
+  text: "This document"
+  tagline: Group 9 CMPG323
   #actions:
     # - theme: brand
     #    text: Changelog
