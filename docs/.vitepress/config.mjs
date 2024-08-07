@@ -21,26 +21,9 @@ export default defineConfig({
     sidebar: {
       "/prd/": [
         {
-          text: "POC Product Requirements",
+          text: "Product Requirements",
           items: [
             { text: "Project Information", link: "/prd/project-information" },
-            { text: "Objectives", link: "/prd/objectives" },
-            {
-              text: "Assumptions and constraints",
-              link: "/prd/assumptions-and-constraints",
-            },
-            {
-              text: "Background and strategic fit",
-              link: "/prd/background-and-strategic-fit",
-            },
-            {
-              text: "Scope: User stories and requirements",
-              link: "/prd/scope-user-stories-and-requirements",
-            },
-            { text: "Product features", link: "/prd/product-features" },
-            { text: "Release criteria", link: "/prd/release-criteria" },
-            { text: "Success metrics", link: "/prd/success-metrics" },
-            { text: "Exclusions", link: "/prd/exclusions" },
           ],
         },
       ],
