@@ -4,10 +4,11 @@ The word "component" is a hugely overloaded term in the software development ind
 
 An important point to note here is that all components inside a container typically execute in the same process space. In the C4 model, components are not separately deployable units.
 
-![Context Level](../public/component-db.png)
+![Component Level](../public/component-db.png)
 
 ## Data layer Components
 
 - Redis
 - PostgreSQL
 - Backups
+- Blob Storage

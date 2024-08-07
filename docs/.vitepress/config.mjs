@@ -122,7 +122,35 @@ export default defineConfig({
                 },
               ],
             },
-            /*  { text: "Code Level", link: "/trd/code-level" }, */
+            {
+              text: "Code Level",
+              items: [
+                {
+                  text: "Entity Relationship Diagram",
+                  link: "/trd/entity-relationship-diagram",
+                },
+                {
+                  text: "Application Programming Interface",
+                  link: "/trd/application-programming-interface",
+                },
+                {
+                  text: "Pages",
+                  link: "/trd/pages",
+                },
+                {
+                  text: "Components",
+                  link: "/trd/components",
+                },
+                {
+                  text: "Composables",
+                  link: "/trd/composables",
+                },
+                {
+                  text: "State",
+                  link: "/trd/state",
+                },
+              ],
+            },
           ],
         },
         {
