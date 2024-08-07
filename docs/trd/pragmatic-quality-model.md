@@ -1,3 +1,3 @@
 # Pragmatic Quality Model
 
-![Context Level](../public/pragmatic-quality-model.png)
+![Context Level](../public/quality.png)
