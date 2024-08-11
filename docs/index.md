@@ -11,11 +11,11 @@ hero:
       text: View the project
       link: https://arc42.org/overview
     - theme: alt
-      text: C4 Modelling
-      link: https://c4model.com/
-    - theme: alt
       text: Arc42
       link: https://arc42.org/overview
+    - theme: alt
+      text: C4 Modelling
+      link: https://c4model.com/
 
 features:
   - title: Product Requirement Document
@@ -26,6 +26,6 @@ features:
     link: /trd/requirements-overview
   - title: API Documentation
     details: Comprehensive documentation detailing integration methods, endpoints, parameters, authentication, and response formats for seamless utilization of website functionalities.
-    link: [https://piipocbackend.uksouth.cloudapp.azure.com:8080/api/docs#/]
+    link: [https://group9-fastapi-be-container.wittydune-e4f461d6.uksouth.azurecontainerapps.io/docs]
 ---
 
