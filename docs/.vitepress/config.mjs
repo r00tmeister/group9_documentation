@@ -14,7 +14,7 @@ export default defineConfig({
       { text: "Technical Requirements", link: "/trd/requirements-overview" },
       {
         text: "API Documentation",
-        link: "#",
+        link: "https://group9-fastapi-be-container.wittydune-e4f461d6.uksouth.azurecontainerapps.io/docs",
       },
     ],
     clearUrls: true,
