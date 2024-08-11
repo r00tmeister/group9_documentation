@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: View the project
-      link: https://arc42.org/overview
+      link: https://group9-nuxt-fe-container.wittydune-e4f461d6.uksouth.azurecontainerapps.io
     - theme: alt
       text: Arc42
       link: https://arc42.org/overview
