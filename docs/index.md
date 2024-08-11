@@ -6,10 +6,13 @@ hero:
   name: "Share2Teach"
   text: "This document"
   tagline: Group 9 CMPG323
-  #actions:
-    # - theme: brand
-    #    text: Changelog
-    #    link: /markdown-examples
+  actions:
+    - theme: brand
+      text: Arc 42
+      link: https://arc42.org/overview
+    - theme: alt
+      text: C4 Modelling
+      link: https://c4model.com/
 
 features:
   - title: Product Requirement Document

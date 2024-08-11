@@ -1,3 +1,3 @@
 # Quality Goals
 
-![Context Level](../public/quality-goals.png)
+![Context Level](/quality-goals.png)

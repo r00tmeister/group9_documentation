@@ -1,3 +1,3 @@
 # Use Case Diagram
 
-![Context Level](../public/use-case-diagram.png)
+![Context Level](/use-case-diagram.png)

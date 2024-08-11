@@ -4,7 +4,7 @@ The word "component" is a hugely overloaded term in the software development ind
 
 An important point to note here is that all components inside a container typically execute in the same process space. In the C4 model, components are not separately deployable units.
 
-![Component Level](../public/component-fe.png)
+![Component Level](/component-fe.png)
 
 ## Front-end Components
 

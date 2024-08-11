@@ -1,7 +1,5 @@
 # Project Information
 
-Details or description of the product that will improve the customer experience.
+Project Specification:
 
-![Share2Teach](./public/pdfs/techspec.pdf)
-
-
+[Share2Teach](/techspec.pdf)

@@ -6,7 +6,7 @@ Always encryption in transit.
 
 Always encryption at rest in databases.
 
-![Context Level](../public/deployment-view.png)
+![Context Level](/deployment-view.png)
 
 ## Azure app service
 
