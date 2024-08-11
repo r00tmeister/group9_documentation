@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Share2Teach"
-  text: "This document"
-  tagline: Group 9 CMPG323
+  text: "Open educational resource project"
+  tagline: System Architecture Documentation
   actions:
     - theme: brand
       text: Arc 42

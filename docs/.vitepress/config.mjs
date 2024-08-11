@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Documentation Title",
+  title: "Group 9 CMPG323",
   description: "Documentation Description",
   appearance: "dark",
   base: "/group9_documentation/",
