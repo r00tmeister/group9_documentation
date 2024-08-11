@@ -8,11 +8,14 @@ hero:
   tagline: System Architecture Documentation
   actions:
     - theme: brand
-      text: Arc 42
+      text: View the project
       link: https://arc42.org/overview
     - theme: alt
       text: C4 Modelling
       link: https://c4model.com/
+    - theme: alt
+      text: Arc42
+      link: https://arc42.org/overview
 
 features:
   - title: Product Requirement Document

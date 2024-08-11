@@ -188,7 +188,10 @@ export default defineConfig({
     },
     appearance: "dark",
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      {
+        icon: "github",
+        link: "https://github.com/r00tmeister/group9_documentation",
+      },
     ],
   },
 });
