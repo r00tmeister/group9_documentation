@@ -117,6 +117,10 @@ export default defineConfig({
                   link: "/trd/application-programming-interface",
                 },
                 {
+                  text: "Low Fidelity Prototype Wireframe",
+                  link: "https://www.figma.com/proto/jHfYyjctrU6Ud5FIaAdJv4/Group-9-Low-Fidelity-Wireframe?node-id=0-1&t=QFNMCXKmwehyTaEW-1",
+                },
+                {
                   text: "Pages",
                   link: "/trd/pages",
                 },

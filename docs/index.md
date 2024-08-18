@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: View the project
       link: https://group9-nuxt-fe-container.wittydune-e4f461d6.uksouth.azurecontainerapps.io
+    - theme: brand
+      text: View the wireframe
+      link: https://www.figma.com/proto/jHfYyjctrU6Ud5FIaAdJv4/Group-9-Low-Fidelity-Wireframe?node-id=0-1&t=QFNMCXKmwehyTaEW-1
     - theme: alt
       text: Arc42
       link: https://arc42.org/overview
