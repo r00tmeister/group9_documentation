@@ -29,6 +29,6 @@ features:
     link: /trd/requirements-overview
   - title: API Documentation
     details: Comprehensive documentation detailing integration methods, endpoints, parameters, authentication, and response formats for seamless utilization of website functionalities.
-    link: [https://group9-fastapi-be-container.wittydune-e4f461d6.uksouth.azurecontainerapps.io/docs]
+    link: [https://group9-fastapi-be-ca.wittydune-e4f461d6.uksouth.azurecontainerapps.io/docs]
 ---
 
